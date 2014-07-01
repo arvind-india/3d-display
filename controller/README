@@ -1,0 +1,2 @@
+The main arduino controller for the project. The microprocessor does several things, including setting the Pico projector's frame rate (through the I2C port), measuring the hall effect sensor, motor control, and accepting user input from the computer.
+
